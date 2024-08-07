@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Android Project</string>
+    <string name="imgLarge">Jomie Album Images</string>
+    <string name="ahoy">Ahoy! by Jomie</string>
+    <string name="aiwytl">as i write you this letter by Jomie</string>
+    <string name="arguewithme">argue with me by Jomie and Rxseboy</string>
+    <string name="bother">Bother by Jomie</string>
+    <string name="disappointingeyes">disappointing eyes by Jomie and Zaini</string>
+    <string name="empathize">empathize by Supachefm and Jomie</string>
+    <string name="heartburn">heartburn by Jomie, Supachefm, and Citrusgastank</string>
+    <string name="hitch">hitch by Jomie</string>
+    <string name="lately">Lately by Jomie</string>
+    <string name="littledoyouknow">littledoyouknow by Jomie and Zaini</string>
+    <string name="lostmyvoice">lost my voice by Jomie and Skinny Atlas</string>
+    <string name="milkinthemorning">milk in the morning by Powfu, Jomie, Zaini, and Skinny Atlas</string>
+    <string name="otherside">Otherside by Jomie, no.cape, Zaini, sorrow, and Winnie</string>
+    <string name="senses">Senses by Love Jai and Jomie</string>
+    <string name="sentimentality">sentimentality by Jomie</string>
+    <string name="soso">Same Old Same Old by Jomie, Skinny Atlas, and Powfu</string>
+    <string name="spiderman">spiderman by Supachefm and Jomie</string>
+    <string name="stuck">Stuck by Jomie</string>
+    <string name="tangledcables">tangled cables by Supachefm and Jomie</string>
+    <string name="tpatt">the princess and the toad by Jomie and kennedyxoxo</string>
+    <string name="wtp">What\'s the point by Jomie</string>
+    <string name="btnPlay">Play</string>
+    <string name="btnStop">Stop</string>
+    <string name="pause">Pause</string>
+</resources>

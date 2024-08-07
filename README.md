@@ -1,0 +1,1 @@
+This is a music player that takes music from the artist Jomie (https://open.spotify.com/artist/5F4cFdG9NvJMnHXJkmqw9g?si=OzlpZVDnSLO5YymvrkVhZw) all credit goes to them for the music in the application. All code was done by myself.
